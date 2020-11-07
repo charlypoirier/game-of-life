@@ -2,6 +2,6 @@
 #define TRANSFORMATIONS_H
 #include "initialisations.h"
 
-void transformer(Cellule uneGrille[X][Y]);
+void transform(Cell grid[X][Y]);
 
 #endif // TRANSFORMATIONS_H
